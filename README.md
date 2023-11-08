@@ -16,12 +16,13 @@ Why software testing? Why not? :)
 * knowledge of the software testing process and the creation of test documentation, including practical test case creation based on testing techniques and bug reporting
 * knowledge of testing theory based on the ISTQB CTFL Syllabus
 * Agile project methodologies (Kanban, Scrum)
-* relational databases and Windows 10 and 11
 * intermediate knowledge of SQL and basic HTML and CSS
 * DevTools knowledge
 * REST API testing
 * experience in creating numerous presentations, reports, analyses, diagnoses
 * experience in managing international educational projects
+* relational databases
+* Windows 10 and 11
 
 * fluent English C1/C2
 * basic German and Russian A2
@@ -92,3 +93,18 @@ Mr Buggy 7
 Grupy testerskie
 Blogi, strony tematyczne
 Webinary, Meetupy
+
+Języki programowania i frameworki, np. Javascript i Angular.
+Bazy danych, np. MySQL, MS SQL.
+Systemy operacyjne, np. Windows, Linux.
+Systemy kontroli wersji, np. GIT, SVN.
+Poznane metodologie zarządzania, jak SCRUM czy Kanban.
+Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
+Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter.
+Języki programowania i frameworki, np. Javascript i Angular.
+Bazy danych, np. MySQL, MS SQL.
+Systemy operacyjne, np. Windows, Linux.
+Systemy kontroli wersji, np. GIT, SVN.
+Poznane metodologie zarządzania, jak SCRUM czy Kanban.
+Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
+Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter.
