@@ -3,59 +3,48 @@
 
 
 ## About me
-I am an ambitious and creative English teacher with 16 years of professional experience in education, quality assurance and customer service. Having embarked on a new career path in IT, I have been steadily building up my technical skills in software testing for the past year through self-study activities and participation in courses. I have highly developed soft skills such as excellent communication and collaboration, nurturing good relationships, managing a team and working effectively in stressful situations. My professionalism, optimism, openness and commitment to goals make me a valued employee. 
+I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to start a new career path as a **software tester** and, now, I am anxious and more than ready to do so.
+As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
 
-I’m a fluent English speaker with 16 years of experience in the fields of education, quality assurance and customer service, and now I am eager and determined to start a new career path in IT. 
-To achieve this goal, I have been systematically developing my technical skills in software testing, over the past year. I am a highly motivated and progress-focused learner with analytical and logical thinking abilities. Moreover, I’m a consistent problem-solver, able to prioritize and manage projects with proficiency.
-Throughout the course of my career, I have perfected my soft skills, especially regarding communication, collaboration, team coordination and effective work in stressful situations. What distinguishes me is creativity, responsibility, perseverance and self-discipline in achieving goals. Continuous development and active learning are among the most important values in my life.
+Throughout the course of my career, I've perfected my soft skills, such as excellent communication and collaboration, fostering good relations, team management, and effective work in stressful situations. I’m a consistent problem-solver with analytical and critical thinking abilities, able to prioritize and manage projects with proficiency. My creativity, optimism, openness, great work organization, and self-discipline in achieving goals make me a valued employee and co-worker.
+
+Why software testing? Why not? :)
 
 ## Skills
 ### Tech skills
 
-* fluent English C1/C2, basic German and Russian A2
-* knowledge of testing theory based on the ISTQB CTFL syllabus, including practical test case creation and bug reporting
-* knowledge of relational databases and Windows 10 and 11
-* knowledge Agile project methodologies (Kanban, Scrum)
-* knowledge of tools such as Jira, TestLink, GitHub, Google Cloud Platform, BigQuery, SQL Server, Postman, Canva, Genially, chat GPT
-* good knowledge of SQL and basic HTML and CSS
-* support for MS 365 (Teams, Access, Excel, Forms, Power Point, Word)
+* knowledge of the software testing process and the creation of test documentation, including practical test case creation based on testing techniques and bug reporting
+* knowledge of testing theory based on the ISTQB CTFL Syllabus
+* Agile project methodologies (Kanban, Scrum)
+* relational databases and Windows 10 and 11
+* intermediate knowledge of SQL and basic HTML and CSS
+* DevTools knowledge
+* REST API testing
 * experience in creating numerous presentations, reports, analyses, diagnoses
 * experience in managing international educational projects
-* excellent organisation of work, multi-tasking and self-reliance
-* ability to think critically and persevere in solving problems 
-* logical and analytical thinking, accuracy, and attentiveness
 
-* knowledge of testing procedures and the creation of test documentation
-* knowledge of Syllabus ISTQB Foundation level
-* DevTools knowledge
-* SQL knowledge
-* REST API testing
-* HTML/CSS basics
-* understanding of different delivery methodologies (e.g., agile, waterfall, v-model)
-* communicative English
+* fluent English C1/C2
+* basic German and Russian A2
 
 ### Soft Skills
 
+* excellent organization of work, multi-tasking, and self-reliance
+* critical thinking and perseverance in solving problems 
+* logical and analytical thinking, accuracy, and attentiveness
+* proactive attitude
+* communication and teamwork skills
+* 
+
 🔎 precision and attention to quality
-
-🙌 communication and teamwork skills
-
-💥 critical thinking
-
+🙌 
+💥 
 📚 ability to learn new tools, systems and processes quickly
-
 💡 thinking outside the box
-
 📈 problem solving and analytical skills
-
-🚀 proactive attitude
-
+🚀 
 🔁 desire for self-development
-
 🔋 energetic and motivated
-
 📋 well-organized
-
 🙅‍♀️ assertive
 
 ## Tools
@@ -72,13 +61,10 @@ Throughout the course of my career, I have perfected my soft skills, especially 
 * **PicPick** - a screen capture and recording tool
 * **OWASP ZAP** - an open-source web application security scanner
 * **BrowserStack** - a testing platform for testing web and mobile applications on various browsers or mobile devices
-* **MS Teams**, **ZOOM**
-* **MS Excel**
-* **MS Access**
+* **Microsoft 365** (Teams, Access, Excel, Forms, Power Point, OneNote, Word)
 * **Canva**- an online graphic design platform for creating social media graphics, presentations, and other visual content
-Slack - a messaging app for business that connects people to the information they need
-Mobizen - a screen recorder mobile app
-
+*  Google Cloud Platform, Genially, chat GPT
+  
 ## Courses and certs
 **pogrubienie**
 [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
