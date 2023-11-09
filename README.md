@@ -4,11 +4,11 @@
 #### TABLE OF CONTENT
 -----
 
-:white_circle: [ABOUT ME](#aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills)  :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+:white_circle: [ABOUT ME](#aboutme) :white_circle: [SKILLS](#skills)  :white_circle: [TOOLS](#tools)  :blue_circle: [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) :white_circle:[PROJECTS](#projects) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
 
 -----
-## <a name="aboutme">:mag_right: About me</a>
-## About me
+## <a name="aboutme"> About me</a>
+
 I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to start a new career path as a **software tester** and, now, I am anxious and more than ready to do so.
 As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
 
@@ -16,7 +16,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 Why software testing? Why not? :)
 
-## Skills
+## <a name="skills"> Skills</a>
 ### Tech skills
 
 ☑️ fluent English C1/C2
@@ -40,7 +40,7 @@ Why software testing? Why not? :)
 ☑️ communication and teamwork skills
 ☑️ continuous self-development
 
-## Tools
+## <a name="tools"> Tools</a>
 
 * **Jira** - an agile project management platform that enables teams to plan, track and manage their workflows and projects
 * **Trello** - a visual project management tool that helps individuals and teams to organize and prioritize their work
@@ -58,7 +58,7 @@ Why software testing? Why not? :)
 * **Canva**- an online graphic design platform for creating social media graphics, presentations, and other visual content
 *  Google Cloud Platform, Genially, chat GPT
   
-## Courses and certs
+## <a name="courses">Courses and certs</a>
 
 * [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
 * [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy, 10.2023 
@@ -72,7 +72,7 @@ Why software testing? Why not? :)
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
 * https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2g4qha7
   
-## Dokumentacja testowa
+## <a name="testcases">Testing Documentation</a>
 
 * test plan example
 * test case example
@@ -80,7 +80,7 @@ Why software testing? Why not? :)
 * test report
 * [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
-## Projekty
+## <a name="projects"> Projects</a>
 Mr Buggy 7
 
 ## Techniczne książki
