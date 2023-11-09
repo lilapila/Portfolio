@@ -13,7 +13,7 @@ Why software testing? Why not? :)
 ## Skills
 ### Tech skills
 
-* knowledge of the software testing process and the creation of test documentation, including practical test case creation based on testing techniques and bug reporting
+* knowledge of the software testing process (test documentation, test case creation based on testing techniques, bug reporting)
 * knowledge of testing theory based on the ISTQB CTFL Syllabus
 * Agile project methodologies (Kanban, Scrum)
 * intermediate knowledge of SQL and basic HTML and CSS
@@ -67,9 +67,9 @@ Why software testing? Why not? :)
 *  Google Cloud Platform, Genially, chat GPT
   
 ## Courses and certs
-**pogrubienie**
-[Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
-* [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy 10.2023 
+
+* [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
+* [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy, 10.2023 
 * [Data analysis using SQL and BigQuery](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e520e2db-1e44-42d7-9957-2ab5710a9776.pdf), Udemy, 09.2023
 * [SQL- a query language for SQL Server database](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9a46702-c550-4cde-a427-42072a3ac76f.pdf), Udemy, 08.2023
 * [Practical Software Testing Course](https://udemy-certificate.s3.amazonaws.com/pdf/UC-133c8422-678f-4fd6-9a21-5fb3f762be5e.pdf), Udemy, 08.2023
