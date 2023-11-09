@@ -69,15 +69,15 @@ Why software testing? Why not? :)
 ## Courses and certs
 **pogrubienie**
 [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
-* Testing bootcamp- software testing, Udemy 10.2023
-* Data analysis using SQL and BigQuery, Udemy, 09.2023
-* SQL- a query language for SQL Server database, Udemy, 08.2023
-* Practical Software Testing Course, Udemy, 08.2023
-* Creating web pages using HTML and CSS, Microsoft, 05.2023
-* 8 methods for creating test cases, Your Courses, 05.2023
-* Designing solutions for education, Design Thinking in Schools, 2022
-* Introduction to Office 365 and Windows 10, Microsoft, 02.2021
-* Certified Microsoft Innovative Educator, Microsoft, 01.2021
+* [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy 10.2023 
+* [Data analysis using SQL and BigQuery], Udemy, 09.2023
+* [SQL- a query language for SQL Server database](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9a46702-c550-4cde-a427-42072a3ac76f.pdf), Udemy, 08.2023
+* [Practical Software Testing Course], Udemy, 08.2023
+* [Creating web pages using HTML and CSS], Microsoft, 05.2023
+* [8 methods for creating test cases], Your Courses, 05.2023
+* [Designing solutions for education], Design Thinking in Schools, 2022
+* [Introduction to Office 365 and Windows 10], Microsoft, 02.2021
+* [Certified Microsoft Innovative Educator], Microsoft, 01.2021
   
 ## Dokumentacja testowa
 
