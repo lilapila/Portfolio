@@ -85,7 +85,7 @@ Why software testing? Why not? :)
 * test case example
 * bug reporting example
 * test report
-* [SQL example] (https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
+* [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 ## Projekty
 Mr Buggy 7
