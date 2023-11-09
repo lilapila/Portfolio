@@ -78,7 +78,7 @@ Why software testing? Why not? :)
 * [Designing solutions for education], Design Thinking in Schools, 2022
 * [Introduction to Office 365](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate.pdf) [and Windows 10 for education](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate%20(2).pdf), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate%20(5).pdf), Microsoft, 01.2021
-* https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2g4qha7)
+* https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2g4qha7
   
 ## Dokumentacja testowa
 
