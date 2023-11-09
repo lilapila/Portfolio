@@ -73,10 +73,10 @@ Why software testing? Why not? :)
 * [Data analysis using SQL and BigQuery](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e520e2db-1e44-42d7-9957-2ab5710a9776.pdf), Udemy, 09.2023
 * [SQL- a query language for SQL Server database](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9a46702-c550-4cde-a427-42072a3ac76f.pdf), Udemy, 08.2023
 * [Practical Software Testing Course](https://udemy-certificate.s3.amazonaws.com/pdf/UC-133c8422-678f-4fd6-9a21-5fb3f762be5e.pdf), Udemy, 08.2023
-* [Creating web pages using HTML and CSS](https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2fuwey7), Microsoft, 05.2023
-* [8 methods for creating test cases], Your Courses, 05.2023
-* [Designing solutions for education], Design Thinking in Schools, 2022
-* [Introduction to Office 365](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate.pdf) [and Windows 10 for education](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate%20(2).pdf), Microsoft, 02.2021
+* [Build web pages using HTML and CSS](https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2fuwey7), Microsoft, 05.2023
+* 8 methods for creating test cases, Your Courses, 05.2023
+* Designing solutions for education, Design Thinking in Schools, 2022
+* [Introduction to Office 365](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate.pdf)[and Windows 10 for education](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate%20(2).pdf) , Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](file:///D:/Lila/ANGIELSKI/certy/2020-21/certificate%20(5).pdf), Microsoft, 01.2021
 * https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2g4qha7
   
