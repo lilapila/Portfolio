@@ -1,7 +1,13 @@
 # Portfolio
 ## Software tester's portfolio - draft
 
+#### TABLE OF CONTENT
+-----
 
+:white_circle: [ABOUT ME](#aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills)  :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+
+-----
+## <a name="aboutme">:mag_right: About me</a>
 ## About me
 I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to start a new career path as a **software tester** and, now, I am anxious and more than ready to do so.
 As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
@@ -13,40 +19,26 @@ Why software testing? Why not? :)
 ## Skills
 ### Tech skills
 
-* knowledge of the software testing process (test documentation, test case creation based on testing techniques, bug reporting)
-* knowledge of testing theory based on the ISTQB CTFL Syllabus
-* Agile project methodologies (Kanban, Scrum)
-* intermediate knowledge of SQL and basic HTML and CSS
-* DevTools knowledge
-* REST API testing
-* experience in creating numerous presentations, reports, analyses, diagnoses
-* experience in managing international educational projects
-* relational databases
-* Windows 10 and 11
-
-* fluent English C1/C2
-* basic German and Russian A2
+☑️ fluent English C1/C2
+☑️ knowledge of the software testing process and the creation of test documentation
+☑️ knowledge of testing theory based on the ISTQB CTFL Syllabus
+☑️ Agile project methodologies (Kanban, Scrum)
+☑️ intermediate knowledge of SQL and basic HTML and CSS
+☑️ DevTools knowledge
+☑️ REST API testing
+☑️ experience in creating numerous presentations, reports, analyses, diagnoses
+☑️ experience in managing international educational projects
 
 ### Soft Skills
 
-* excellent organization of work, multi-tasking, and self-reliance
-* critical thinking and perseverance in solving problems 
-* logical and analytical thinking, accuracy, and attentiveness
-* proactive attitude
-* communication and teamwork skills
-* 
-
-🔎 precision and attention to quality
-🙌 
-💥 
-📚 ability to learn new tools, systems and processes quickly
-💡 thinking outside the box
-📈 problem solving and analytical skills
-🚀 
-🔁 desire for self-development
-🔋 energetic and motivated
-📋 well-organized
-🙅‍♀️ assertive
+☑️ excellent organization of work, multi-tasking, and self-reliance
+☑️ critical thinking and perseverance in solving problems 
+☑️ logical and analytical thinking
+☑️ accuracy and attention to detail
+☑️ creativity and thinking outside the box
+☑️ proactive attitude
+☑️ communication and teamwork skills
+☑️ continuous self-development
 
 ## Tools
 
@@ -55,7 +47,7 @@ Why software testing? Why not? :)
 * **Confluence** - a team workspace where knowledge and collaboration meet
 * **TestLink** - a web-based test management system that facilitates software quality assurance
 * **GitHub** -  a platform and cloud-based service for software development and version control using Git 
-* **GIT** - an open source distributed version control system that tracks changes in any set of computer files
+* **GIT** - an open-source distributed version control system that tracks changes in any set of computer files
 * **Postman** - an API platform for building and using APIs
 * **MS SQL Server** - a relational database management system that is based on structured query language (SQL)
 * **Google BigQuery** - a serverless data warehouse that comes with a built-in SQL engine and enables scalable analysis over petabytes of data
@@ -104,6 +96,17 @@ Poznane metodologie zarządzania, jak SCRUM czy Kanban.
 Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
 Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter.
 Języki programowania i frameworki, np. Javascript i Angular.
+🔎 precision and attention to quality
+🙌 
+💥 
+📚 ability to learn new tools, systems and processes quickly
+💡 thinking outside the box
+📈 problem solving and analytical skills
+🚀 
+🔁 
+🔋 
+📋 
+🙅‍♀️ 
 Bazy danych, np. MySQL, MS SQL.
 Systemy operacyjne, np. Windows, Linux.
 Systemy kontroli wersji, np. GIT, SVN.
