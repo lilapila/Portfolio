@@ -4,7 +4,7 @@
 #### TABLE OF CONTENT
 -----
 
-:white_circle: [ABOUT ME](#aboutme) :white_circle: [SKILLS](#skills)  :white_circle: [TOOLS](#tools)  :blue_circle: [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) :white_circle:[PROJECTS](#projects) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+:small_blue_diamond: [ABOUT ME](#aboutme) 🔹 [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 
 
 -----
 ## <a name="aboutme"> About me</a>
@@ -20,24 +20,39 @@ Why software testing? Why not? :)
 ### Tech skills
 
 ☑️ fluent English C1/C2
+
 ☑️ knowledge of the software testing process and the creation of test documentation
+
 ☑️ knowledge of testing theory based on the ISTQB CTFL Syllabus
+
 ☑️ Agile project methodologies (Kanban, Scrum)
+
 ☑️ intermediate knowledge of SQL and basic HTML and CSS
+
 ☑️ DevTools knowledge
+
 ☑️ REST API testing
+
 ☑️ experience in creating numerous presentations, reports, analyses, diagnoses
+
 ☑️ experience in managing international educational projects
 
 ### Soft Skills
 
 ☑️ excellent organization of work, multi-tasking, and self-reliance
+
 ☑️ critical thinking and perseverance in solving problems 
+
 ☑️ logical and analytical thinking
+
 ☑️ accuracy and attention to detail
+
 ☑️ creativity and thinking outside the box
+
 ☑️ proactive attitude
+
 ☑️ communication and teamwork skills
+
 ☑️ continuous self-development
 
 ## <a name="tools"> Tools</a>
