@@ -75,6 +75,7 @@ Why software testing? Why not? :)
   
 ## <a name="courses">Courses and certs</a>
 
+* [Confluence Fundamentals](https://university.atlassian.com/student/award/KqsGK4yoXVzAqZ7sCcMBnSQG), Atlassian University, 11.2023
 * [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
 * [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy, 10.2023 
 * [Data analysis using SQL and BigQuery](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e520e2db-1e44-42d7-9957-2ab5710a9776.pdf), Udemy, 09.2023
@@ -95,7 +96,7 @@ Why software testing? Why not? :)
 * test report
 * [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
-## <a name="projects"> Projects</a>
+## <a name="projects">Projects</a>
 Mr Buggy 7
 
 ## Techniczne książki
