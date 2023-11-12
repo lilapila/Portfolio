@@ -1,20 +1,20 @@
 # Portfolio
-## Software tester's portfolio - draft
+## Software tester's portfolio - Liliana Pilarska (draft)
 
 #### TABLE OF CONTENT
 -----
 
-:small_blue_diamond: [ABOUT ME](#aboutme) 🔹 [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [BOOKS ABOUT TESTING](#books) 🔹 [RECOMMENDED BLOGS ABOUT TESTING](#blogs) 
+:small_blue_diamond: [ABOUT ME](#aboutme) 🔹 [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [RECOMMENDED SOURCES](#sources) 
 
 -----
 ## <a name="aboutme"> About me</a>
 
-I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to start a new career path as a **software tester** and, now, I am anxious and more than ready to do so.
+I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to pursue a new career path as a **software tester**. Now, I am eager and more than ready to start this new chapter in my life.
 As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
 
-Throughout the course of my career, I've perfected my soft skills, such as excellent communication and collaboration, fostering good relations, team management, and effective work in stressful situations. I’m a consistent problem-solver with analytical and critical thinking abilities, able to prioritize and manage projects with proficiency. My creativity, optimism, openness, great work organization, and self-discipline in achieving goals make me a valued employee and co-worker.
+Throughout the course of my career, I've perfected my soft skills, such as excellent communication and collaboration, building and maintaining positive relationships, effective team management, and performing well in high-pressure situations. As a consistent problem-solver with analytical and critical thinking abilities, I can prioritize and manage projects with proficiency. My creativity, optimism, openness, strong organizational skills, and self-discipline in achieving goals make me a valuable asset as an employee and co-worker.
 
-Why software testing? Why not? :)
+❔ Why software testing? 
 
 ## <a name="skills"> Skills</a>
 ### Tech skills
@@ -86,7 +86,6 @@ Why software testing? Why not? :)
 * [Designing solutions for education](https://docs.google.com/document/d/1CuBJW0xAv7IeryuDQJmMztT4s868r686LLey4DyvS5I/edit?usp=sharing), Design Thinking in Schools, 2022
 * [Introduction to Office 365 and Windows 10 for education](https://docs.google.com/document/d/1gfLoixn_MkEFmGRSiSOitDFnh1Q6_krtWf0oCQWEjPg/edit?usp=sharing), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
-* https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2g4qha7
   
 ## <a name="testcases">Testing Documentation</a>
 
@@ -99,33 +98,17 @@ Why software testing? Why not? :)
 ## <a name="projects">Projects</a>
 Mr Buggy 7
 
-## Techniczne książki
+## <a name="sources">Recommended sources of knowledge</a>
 Grupy testerskie
 Blogi, strony tematyczne
 Webinary, Meetupy
 
-Języki programowania i frameworki, np. Javascript i Angular.
-Bazy danych, np. MySQL, MS SQL.
-Systemy operacyjne, np. Windows, Linux.
-Systemy kontroli wersji, np. GIT, SVN.
-Poznane metodologie zarządzania, jak SCRUM czy Kanban.
-Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
-Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter.
-Języki programowania i frameworki, np. Javascript i Angular.
-🔎 precision and attention to quality
-🙌 
-💥 
-📚 ability to learn new tools, systems and processes quickly
+
+🔎 precision and attention to quality 
+📚 
 💡 thinking outside the box
-📈 problem solving and analytical skills
-🚀 
-🔁 
-🔋 
+📈 problem solving and analytical skills 
 📋 
 🙅‍♀️ 
-Bazy danych, np. MySQL, MS SQL.
-Systemy operacyjne, np. Windows, Linux.
-Systemy kontroli wersji, np. GIT, SVN.
-Poznane metodologie zarządzania, jak SCRUM czy Kanban.
-Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
-Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter.
+
+
