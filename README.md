@@ -67,11 +67,10 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **MS SQL Server** - a relational database management system that is based on structured query language (SQL)
 * **Google BigQuery** - a serverless data warehouse that comes with a built-in SQL engine and enables scalable analysis over petabytes of data
 * **PicPick** - a screen capture and recording tool
-* **OWASP ZAP** - an open-source web application security scanner
 * **BrowserStack** - a testing platform for testing web and mobile applications on various browsers or mobile devices
 * **Microsoft 365** (Teams, Access, Excel, Forms, Power Point, OneNote, Word)
 * **Canva**- an online graphic design platform for creating social media graphics, presentations, and other visual content
-*  Google Cloud Platform, Genially, chat GPT
+*   Genially, chat GPT
   
 ## <a name="courses">Courses and certs</a>
 
@@ -83,6 +82,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * [Practical Software Testing Course](https://udemy-certificate.s3.amazonaws.com/pdf/UC-133c8422-678f-4fd6-9a21-5fb3f762be5e.pdf), Udemy, 08.2023
 * [Build web pages using HTML and CSS](https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2fuwey7), Microsoft, 05.2023
 * [8 methods for creating test cases](https://docs.google.com/document/d/1h7Cl-mkJKnCyfqafR8kJsVuBAqLcLrncRYFl-uwf6n0/edit?usp=sharing), Twoje Kursy, 05.2023
+* [HTML and CSS basics](https://docs.google.com/document/d/1ntuEs7vKzkjJsMriw6LhAm4Yy59UbnxCgI-AF97o8Gs/edit?usp=sharing)
 * [Designing solutions for education](https://docs.google.com/document/d/1CuBJW0xAv7IeryuDQJmMztT4s868r686LLey4DyvS5I/edit?usp=sharing), Design Thinking in Schools, 2022
 * [Introduction to Office 365 and Windows 10 for education](https://docs.google.com/document/d/1gfLoixn_MkEFmGRSiSOitDFnh1Q6_krtWf0oCQWEjPg/edit?usp=sharing), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
