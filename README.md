@@ -82,7 +82,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * [Practical Software Testing Course](https://udemy-certificate.s3.amazonaws.com/pdf/UC-133c8422-678f-4fd6-9a21-5fb3f762be5e.pdf), Udemy, 08.2023
 * [Build web pages using HTML and CSS](https://learn.microsoft.com/en-us/users/lilianapilarska-6371/achievements/a2fuwey7), Microsoft, 05.2023
 * [8 methods for creating test cases](https://docs.google.com/document/d/1h7Cl-mkJKnCyfqafR8kJsVuBAqLcLrncRYFl-uwf6n0/edit?usp=sharing), Twoje Kursy, 05.2023
-* [HTML and CSS basics](https://docs.google.com/document/d/1ntuEs7vKzkjJsMriw6LhAm4Yy59UbnxCgI-AF97o8Gs/edit?usp=sharing)
+* [HTML and CSS basics](https://docs.google.com/document/d/1ntuEs7vKzkjJsMriw6LhAm4Yy59UbnxCgI-AF97o8Gs/edit?usp=sharing), CodersLab, 04.2023
 * [Designing solutions for education](https://docs.google.com/document/d/1CuBJW0xAv7IeryuDQJmMztT4s868r686LLey4DyvS5I/edit?usp=sharing), Design Thinking in Schools, 2022
 * [Introduction to Office 365 and Windows 10 for education](https://docs.google.com/document/d/1gfLoixn_MkEFmGRSiSOitDFnh1Q6_krtWf0oCQWEjPg/edit?usp=sharing), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
