@@ -103,6 +103,13 @@ Grupy testerskie
 Blogi, strony tematyczne
 Webinary, Meetupy
 
+https://www.wyszkolewas.com.pl/blog/
+https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania
+
+WOMEN IN IT DAY
+November 15, 2023
+https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule
+
 
 🔎 precision and attention to quality 
 📚 
