@@ -105,9 +105,11 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### Test report
 
-➡️ [TestLink report](TestLink 1.9.20 [DEV].pdf)
+➡️ [TestLink report](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/testlink%20plan%20test%C3%B3w%20allegro.png)
 
-### [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
+### SQL
+
+[SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 ## <a name="projects">Projects</a>
 Mr Buggy 7
