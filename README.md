@@ -66,11 +66,11 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **Postman** - an API platform for building and using APIs
 * **MS SQL Server** - a relational database management system that is based on structured query language (SQL)
 * **Google BigQuery** - a serverless data warehouse that comes with a built-in SQL engine and enables scalable analysis over petabytes of data
+* **Canva** and **Genially**- an online graphic design platform for creating social media graphics, presentations, and other visual content
 * **PicPick** - a screen capture and recording tool
 * **BrowserStack** - a testing platform for testing web and mobile applications on various browsers or mobile devices
 * **Microsoft 365** (Teams, Access, Excel, Forms, Power Point, OneNote, Word)
-* **Canva**- an online graphic design platform for creating social media graphics, presentations, and other visual content
-*   Genially, chat GPT
+* **chat GPT**
   
 ## <a name="courses">Courses and certs</a>
 
@@ -101,7 +101,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
    
 ### Bug reporting example
 
-➡️ [Jira bug reporting]()
+➡️ [Jira bug reporting](https://github.com/lilapila/lilapila/blob/0b1cb9dfcbb2222f8fb2801bcd0d818c8ab3f2d0/jira%20bug1.jpg) 
 
 ### Test report
 
