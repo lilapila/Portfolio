@@ -105,6 +105,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### *test report
 
+➡️ [TestLink report](TestLink 1.9.20 [DEV].pdf)
+
 ### *[SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 ## <a name="projects">Projects</a>
