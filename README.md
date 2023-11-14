@@ -91,6 +91,9 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 * test plan example
 * test case example
+
+➡️ [registration form test cases](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
+   
 * bug reporting example
 * test report
 * [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
