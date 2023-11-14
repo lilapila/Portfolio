@@ -89,26 +89,23 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="testcases">Testing Documentation</a>
 
-* ###test plan example
+### * test plan example
 
 ➡️ [testplan- allegro](https://docs.google.com/document/d/16gCGtN-Ijdw9-V8Le9oc6hwmLesrxqqIzhj3p8g9UwA/edit?usp=sharing)
   
-* ###test case example
+### *test case example
 
 ➡️ [registration form TC](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 
 ➡️ [login page allegro TC]()
    
-* ###bug reporting example
+### *bug reporting example
 
 ➡️ [Jira bug reporting]()
 
-* ####test report
+### *test report
 
-  
-
-
-* ####[SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
+### *[SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 ## <a name="projects">Projects</a>
 Mr Buggy 7
