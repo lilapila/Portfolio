@@ -91,13 +91,13 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### test plan example
 
-➡️ [testplan- allegro](https://docs.google.com/document/d/16gCGtN-Ijdw9-V8Le9oc6hwmLesrxqqIzhj3p8g9UwA/edit?usp=sharing)
+➡️ [testplan- allegro](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/testlink%20plan%20test%C3%B3w%20allegro.png)
   
 ### Test case example
 
 ➡️ [registration form TC](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 
-➡️ [login page allegro TC]()
+➡️ [login allegro TC](https://github.com/lilapila/lilapila/blob/97483413a21bd892f3117018f7a316f0ef294260/testlink%20allegro%20TC.png)
    
 ### Bug reporting example
 
@@ -105,11 +105,11 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### Test report
 
-➡️ [TestLink report](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/testlink%20plan%20test%C3%B3w%20allegro.png)
+➡️ [TestLink report](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/TestLink%201.9.20%20%5BDEV%5D.pdf)
 
 ### SQL
 
-[SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
+➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 ## <a name="projects">Projects</a>
 Mr Buggy 7
