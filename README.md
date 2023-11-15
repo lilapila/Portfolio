@@ -125,16 +125,21 @@ Webinary, Meetupy
 https://www.wyszkolewas.com.pl/blog/
 https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania
 
-WOMEN IN IT DAY
-November 15, 2023
-https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule
+[WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
+*  DigitalEurope - Can nice girls get the corner office in the tech industry?
+*  Accenture - Życie po reskillingu.
+* Building a strong personal brand in the world of technology and communication.
+* Artificial Intelligence: Influence the future and create new opportunities!
+* PwC - Czy humaniści i artystyczne dusze mają szansę w IT?
+*  Mamy i ich supermoce – czyli jak macierzyństwo rozwija kompetencje, które możemy wykorzystać po powrocie do pracy
+*  DEBATA 3 - Pracownik pilnie poszukiwany. Jakie kompetencje liczą się dziś na rynku?
+*  PwC - Microsoft Dynamics - technologia wielu branż. O roli konsultanta biznesowego.
+*  Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
+*  DEBATA 4 - I did IT! Sukces w IT to mój osiągnięty cel!
+*  Orange - Reskilling, czyli powtarzalna szansa na sukces. Zuzanna Woźniak
 
-
-🔎 precision and attention to quality 
-📚 
-💡 thinking outside the box
-📈 problem solving and analytical skills 
-📋 
-🙅‍♀️ 
+🔎
+💡 
+ 
 
 
