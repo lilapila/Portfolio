@@ -9,8 +9,8 @@
 -----
 ## <a name="aboutme"> About me</a>
 
-I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to pursue a new career path as a **software tester**. Now, I am eager and more than ready to start this new chapter in my life.
-As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
+I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to embark on a new career path as a **software tester**. Now, I am eager and more than ready to start this new chapter in my life.
+As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses and projects.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
 
 Throughout the course of my career, I've perfected my soft skills, such as excellent communication and collaboration, building and maintaining positive relationships, effective team management, and performing well in high-pressure situations. As a consistent problem-solver with analytical and critical thinking abilities, I can prioritize and manage projects with proficiency. My creativity, optimism, openness, strong organizational skills, and self-discipline in achieving goals make me a valuable asset as an employee and co-worker.
 
@@ -39,9 +39,11 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### Soft Skills
 
-☑️ excellent organization of work, multi-tasking, and self-reliance
+☑️ communication and teamwork skills
 
 ☑️ critical thinking and perseverance in solving problems 
+
+☑️ excellent work organization and self-reliance
 
 ☑️ logical and analytical thinking
 
@@ -51,9 +53,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ☑️ proactive attitude
 
-☑️ communication and teamwork skills
-
 ☑️ continuous self-development
+
 
 ## <a name="tools"> Tools</a>
 
@@ -111,8 +112,10 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
+
 ## <a name="projects">Projects</a>
 Mr Buggy 7
+
 
 ## <a name="sources">Recommended sources of knowledge</a>
 Grupy testerskie
