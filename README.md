@@ -128,22 +128,21 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 ## <a name="events">🔹Events🔹</a>
 
 [WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
-*  DigitalEurope - Can nice girls get the corner office in the tech industry?
-*  Accenture - Życie po reskillingu.
+* DigitalEurope - Can nice girls get the corner office in the tech industry?
+* Accenture - Life after reskilling.
 * Building a strong personal brand in the world of technology and communication.
 * Artificial Intelligence: Influence the future and create new opportunities!
-* PwC - Czy humaniści i artystyczne dusze mają szansę w IT?
-*  Mamy i ich supermoce – czyli jak macierzyństwo rozwija kompetencje, które możemy wykorzystać po powrocie do pracy
-*  DEBATA 3 - Pracownik pilnie poszukiwany. Jakie kompetencje liczą się dziś na rynku?
-*  PwC - Microsoft Dynamics - technologia wielu branż. O roli konsultanta biznesowego.
-*  Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
-*  DEBATA 4 - I did IT! Sukces w IT to mój osiągnięty cel!
-*  Orange - Reskilling, czyli powtarzalna szansa na sukces. Zuzanna Woźniak
-
+* Mums and their superpowers – how motherhood develops competencies that we can use after returning to work
+* Debate: An employee in high demand. What competencies count in the market today?
+* PwC - Microsoft Dynamics -Multi-industry technology. On the role of the business consultant.
+* Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
+* DEBATA 4 - I did IT! Success in IT is my achieved goal!
+* Orange - Reskilling, a repeatable chance for success.
+* Eklektika - Prompt Engineering in education - how to use Chat GPT tools effectively for self-learning in the context of foreign languages.
 
 ## <a name="sources">Recommended sources of knowledge and practice</a>
 
-Blogs
+#### Blogs
 
 💡 [testuj.pl](https://testuj.pl/blog/)
 
@@ -151,24 +150,24 @@ Blogs
 
 💡 [Remigiusz Bednarczyk artykuły](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
 
-💡 [<Tester/>](https://tester.milenabednarczyk.pl/)
+💡 [<Tester / >](https://tester.milenabednarczyk.pl/)
 
 #### Groups
 
-[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+💡 [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
-[Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
+💡 [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
 
-[Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
+💡 [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 
 
 #### Practice
 
-[Academy bugs](https://academybugs.com/find-bugs/)
+💡 [Academy bugs](https://academybugs.com/find-bugs/)
 
-[Store](https://www.demoblaze.com/index.html)
+💡 [Store](https://www.demoblaze.com/index.html)
 
-💡 
+ 
  
 
 
