@@ -146,6 +146,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [testuj.pl](https://testuj.pl/blog/)
 
+💡 [Quality Island](https://qualityisland.pl/blog/)
+
 💡 [Waldemar Szafraniec testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
 
 💡 [Remigiusz Bednarczyk artykuły](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
@@ -160,12 +162,18 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 
+💡 Team Quality Island- discord
+
 
 #### Practice
+
+💡 [Khan Academy](https://pl.khanacademy.org/computing/computer-programming)
 
 💡 [Academy bugs](https://academybugs.com/find-bugs/)
 
 💡 [Store](https://www.demoblaze.com/index.html)
+
+
 
  
  
