@@ -7,7 +7,7 @@
 [ABOUT ME](#aboutme) :small_blue_diamond:  [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [EVENTS](events) 🔹 [RECOMMENDED SOURCES OF KNOWLEDGE AND PRACTICE](#sources) 
 
 -----
-## <a name="aboutme"> About me</a>
+## <a name="aboutme">🔹About me🔹</a>
 
 I am a fluent English speaker with 16 years of professional experience in education, quality assurance, and customer service. Over a year ago, I made a conscious decision to embark on a new career path as a **software tester**. Now, I am eager and more than ready to start this new chapter in my life.
 As an ambitious and highly motivated learner,  I've been systematically developing my technical skills through self-study and participation in courses and projects.  I've learned testing theory based on the ISTQB syllabus, Agile project management methodologies, SQL, Jira & Confluence, REST API testing, HTML/CSS basics, Chrome DevTools, etc.
@@ -16,7 +16,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ❔ Why software testing? 
 
-## <a name="skills"> Skills</a>
+## <a name="skills">🔹Skills🔹</a>
 ### Tech skills
 
 ☑️ fluent English C1/C2
@@ -56,7 +56,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 ☑️ continuous self-development
 
 
-## <a name="tools"> Tools</a>
+## <a name="tools">🔹Tools🔹</a>
 
 * **Jira** - an agile project management platform that enables teams to plan, track and manage their workflows and projects
 * **Trello** - a visual project management tool that helps individuals and teams to organize and prioritize their work
@@ -73,7 +73,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **Microsoft 365** (Teams, Access, Excel, Forms, Power Point, OneNote, Word)
 * **chat GPT**
   
-## <a name="courses">Courses and certs</a>
+## <a name="courses">🔹Courses and certs🔹</a>
 
 * [Confluence Fundamentals](https://university.atlassian.com/student/award/KqsGK4yoXVzAqZ7sCcMBnSQG), Atlassian University, 11.2023
 * [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
@@ -88,7 +88,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * [Introduction to Office 365 and Windows 10 for education](https://docs.google.com/document/d/1gfLoixn_MkEFmGRSiSOitDFnh1Q6_krtWf0oCQWEjPg/edit?usp=sharing), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
   
-## <a name="testcases">Testing Documentation</a>
+## <a name="testcases">🔹Testing Documentation🔹</a>
 
 #### Test plan example
 
@@ -113,9 +113,9 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 
-## <a name="projects">Projects</a>
+## <a name="projects">🔹Projects🔹a>
 
-* ### COLT 3/2023 - Testing tasks associated with DevTool (In progress)
+* ### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
 (15.11.2023-15.12.2023)
 
 * ### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&campaignid=19835073331&utm_content=150663570681&utm_term=651593759747&keyword=qa%20it&placement=&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTcUlK3YDf0-pHSx3u4qA9RxxfrLnyiDWdLXtDEZRXn80EWzIorzo-0aAtHMEALw_wcB)
