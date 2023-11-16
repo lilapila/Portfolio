@@ -98,7 +98,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ➡️ [TC MrBuggy registration form](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 
-➡️ [TC allegro](https://github.com/lilapila/lilapila/blob/97483413a21bd892f3117018f7a316f0ef294260/testlink%20allegro%20TC.png)
+➡️ [TC allegro](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/testlink%20allegro%20TC.png)
    
 #### Bug reporting example
 
@@ -107,6 +107,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 #### Test report
 
 ➡️ [TestLink report - allegro](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/TestLink%201.9.20%20%5BDEV%5D.pdf)
+
 ➡️ [TestLink metrics - allegro](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/TestLink%201.9.20%20%5BDEV%5D%20metrics.pdf)
 
 #### SQL
