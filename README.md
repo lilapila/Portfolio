@@ -171,7 +171,9 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [Academy bugs](https://academybugs.com/find-bugs/)
 
-💡 [Store](https://www.demoblaze.com/index.html)
+💡 [Sololearn](https://www.sololearn.com/learn/courses/sql-intermediate)
+
+💡 []()
 
 
 
