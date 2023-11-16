@@ -143,7 +143,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ## <a name="sources">Recommended sources of knowledge and practice</a>
 
-#### Blogs
+Blogs
 
 💡 [testuj.pl](https://testuj.pl/blog/)
 
