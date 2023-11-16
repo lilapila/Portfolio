@@ -55,7 +55,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ☑️ continuous self-development
 
------
+
 ## <a name="tools">🔹Tools🔹</a>
 
 * **Jira** - an agile project management platform that enables teams to plan, track and manage their workflows and projects
@@ -112,7 +112,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
------
+
+
 ## <a name="projects">🔹Projects🔹</a>
 
 * #### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
@@ -120,9 +121,10 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 * #### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&campaignid=19835073331&utm_content=150663570681&utm_term=651593759747&keyword=qa%20it&placement=&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTcUlK3YDf0-pHSx3u4qA9RxxfrLnyiDWdLXtDEZRXn80EWzIorzo-0aAtHMEALw_wcB)
 
-* #### Mr Buggy 7
+* #### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
 
------  
+
+
 ## <a name="events">🔹Events🔹</a>
 
 [WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
@@ -138,10 +140,10 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 *  DEBATA 4 - I did IT! Sukces w IT to mój osiągnięty cel!
 *  Orange - Reskilling, czyli powtarzalna szansa na sukces. Zuzanna Woźniak
 
------
+
 ## <a name="sources">Recommended sources of knowledge and practice</a>
 
-## Blogs
+#### Blogs
 
 💡 [testuj.pl](https://testuj.pl/blog/)
 
@@ -151,7 +153,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [<Tester/>](https://tester.milenabednarczyk.pl/)
 
-## Groups
+#### Groups
 
 [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
@@ -160,7 +162,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 
 
-## Practice
+#### Practice
 
 [Academy bugs](https://academybugs.com/find-bugs/)
 
