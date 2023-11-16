@@ -113,16 +113,14 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 
-
 ## <a name="projects">🔹Projects🔹</a>
 
-* #### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
+#### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
 (15.11.2023-15.12.2023)
 
-* #### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&campaignid=19835073331&utm_content=150663570681&utm_term=651593759747&keyword=qa%20it&placement=&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTcUlK3YDf0-pHSx3u4qA9RxxfrLnyiDWdLXtDEZRXn80EWzIorzo-0aAtHMEALw_wcB)
+#### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&campaignid=19835073331&utm_content=150663570681&utm_term=651593759747&keyword=qa%20it&placement=&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTcUlK3YDf0-pHSx3u4qA9RxxfrLnyiDWdLXtDEZRXn80EWzIorzo-0aAtHMEALw_wcB)
 
-* #### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
-
+#### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
 
 
 ## <a name="events">🔹Events🔹</a>
@@ -135,8 +133,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * Mums and their superpowers – how motherhood develops competencies that we can use after returning to work
 * Debate: An employee in high demand. What competencies count in the market today?
 * PwC - Microsoft Dynamics -Multi-industry technology. On the role of the business consultant.
-* Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
-* DEBATA 4 - I did IT! Success in IT is my achieved goal!
+* Debate: I did IT! Success in IT is my achieved goal!
 * Orange - Reskilling, a repeatable chance for success.
 * Eklektika - Prompt Engineering in education - how to use Chat GPT tools effectively for self-learning in the context of foreign languages.
 
