@@ -4,7 +4,7 @@
 #### TABLE OF CONTENT
 -----
 
-[ABOUT ME](#aboutme) :small_blue_diamond:  [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [RECOMMENDED SOURCES](#sources) 
+[ABOUT ME](#aboutme) :small_blue_diamond:  [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [EVENTS](events) 🔹 [RECOMMENDED SOURCES OF KNOWLEDGE AND PRACTICE](#sources) 
 
 -----
 ## <a name="aboutme"> About me</a>
@@ -114,17 +114,38 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 
 ## <a name="projects">Projects</a>
-Mr Buggy 7
+
+* COLT 3/2023 - Testing tasks associated with DevTool.(In progress)
+(15.11.2023-15.12.2023)
+
+* Mr Buggy 7
+
+  
+## <a name="events">Events</a>
+
+[WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
+*  DigitalEurope - Can nice girls get the corner office in the tech industry?
+*  Accenture - Życie po reskillingu.
+* Building a strong personal brand in the world of technology and communication.
+* Artificial Intelligence: Influence the future and create new opportunities!
+* PwC - Czy humaniści i artystyczne dusze mają szansę w IT?
+*  Mamy i ich supermoce – czyli jak macierzyństwo rozwija kompetencje, które możemy wykorzystać po powrocie do pracy
+*  DEBATA 3 - Pracownik pilnie poszukiwany. Jakie kompetencje liczą się dziś na rynku?
+*  PwC - Microsoft Dynamics - technologia wielu branż. O roli konsultanta biznesowego.
+*  Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
+*  DEBATA 4 - I did IT! Sukces w IT to mój osiągnięty cel!
+*  Orange - Reskilling, czyli powtarzalna szansa na sukces. Zuzanna Woźniak
 
 
-## <a name="sources">Recommended sources of knowledge</a>
+## <a name="sources">Recommended sources of knowledge and practice</a>
 Grupy testerskie
 Blogi, strony tematyczne
-Webinary, Meetupy
+
 
 https://www.wyszkolewas.com.pl/blog/
 https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania
 
+Events, webinars:
 [WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
 *  DigitalEurope - Can nice girls get the corner office in the tech industry?
 *  Accenture - Życie po reskillingu.
