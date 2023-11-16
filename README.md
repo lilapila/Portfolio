@@ -90,38 +90,40 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="testcases">Testing Documentation</a>
 
-### test plan example
+#### Test plan example
 
 ➡️ [testplan- allegro](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/testlink%20plan%20test%C3%B3w%20allegro.png)
   
-### Test case example
+#### Test case example
 
 ➡️ [registration form TC](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 
 ➡️ [login allegro TC](https://github.com/lilapila/lilapila/blob/97483413a21bd892f3117018f7a316f0ef294260/testlink%20allegro%20TC.png)
    
-### Bug reporting example
+#### Bug reporting example
 
 ➡️ [Jira bug reporting](https://github.com/lilapila/lilapila/blob/0b1cb9dfcbb2222f8fb2801bcd0d818c8ab3f2d0/jira%20bug1.jpg) 
 
-### Test report
+#### Test report
 
 ➡️ [TestLink report](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/TestLink%201.9.20%20%5BDEV%5D.pdf)
 
-### SQL
+#### SQL
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
 
 ## <a name="projects">Projects</a>
 
-* COLT 3/2023 - Testing tasks associated with DevTool.(In progress)
+* ### COLT 3/2023 - Testing tasks associated with DevTool (In progress)
 (15.11.2023-15.12.2023)
 
-* Mr Buggy 7
+* ### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&campaignid=19835073331&utm_content=150663570681&utm_term=651593759747&keyword=qa%20it&placement=&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTcUlK3YDf0-pHSx3u4qA9RxxfrLnyiDWdLXtDEZRXn80EWzIorzo-0aAtHMEALw_wcB)
+
+* ### Mr Buggy 7
 
   
-## <a name="events">Events</a>
+## <a name="events">🔹Events🔹</a>
 
 [WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
 *  DigitalEurope - Can nice girls get the corner office in the tech industry?
@@ -138,28 +140,32 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 
 ## <a name="sources">Recommended sources of knowledge and practice</a>
-Grupy testerskie
-Blogi, strony tematyczne
+
+## Blogs
+
+💡 [testuj.pl](https://testuj.pl/blog/)
+
+💡 [Waldemar Szafraniec testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
+
+💡 [Remigiusz Bednarczyk artykuły](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+
+💡 [<Tester/>](https://tester.milenabednarczyk.pl/)
+
+## Groups
+
+[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+
+[Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
+
+[Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 
 
-https://www.wyszkolewas.com.pl/blog/
-https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania
+## Practice
 
-Events, webinars:
-[WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
-*  DigitalEurope - Can nice girls get the corner office in the tech industry?
-*  Accenture - Życie po reskillingu.
-* Building a strong personal brand in the world of technology and communication.
-* Artificial Intelligence: Influence the future and create new opportunities!
-* PwC - Czy humaniści i artystyczne dusze mają szansę w IT?
-*  Mamy i ich supermoce – czyli jak macierzyństwo rozwija kompetencje, które możemy wykorzystać po powrocie do pracy
-*  DEBATA 3 - Pracownik pilnie poszukiwany. Jakie kompetencje liczą się dziś na rynku?
-*  PwC - Microsoft Dynamics - technologia wielu branż. O roli konsultanta biznesowego.
-*  Orange - „Przełącz się na przyszłość” – Jak dzisiejsza rzeczywistość kształtuje przyszłość zawodów IT.
-*  DEBATA 4 - I did IT! Sukces w IT to mój osiągnięty cel!
-*  Orange - Reskilling, czyli powtarzalna szansa na sukces. Zuzanna Woźniak
+[Academy bugs](https://academybugs.com/find-bugs/)
 
-🔎
+[Store](https://www.demoblaze.com/index.html)
+
 💡 
  
 
