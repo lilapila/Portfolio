@@ -65,6 +65,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **Postman** - an API platform for building and using APIs
 * **MS SQL Server** - a relational database management system that is based on structured query language (SQL)
 * **Google BigQuery** - a serverless data warehouse that comes with a built-in SQL engine and enables scalable analysis over petabytes of data
+* **Chrome DevTools** - a set of web developer tools built directly into the Google Chrome browser.
 * **Canva** and **Genially**- an online graphic design platform for creating social media graphics, presentations, and other visual content
 * **PicPick** - a screen capture and recording tool
 * **BrowserStack** - a testing platform for testing web and mobile applications on various browsers or mobile devices
