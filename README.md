@@ -14,8 +14,6 @@ As an ambitious and highly motivated learner,  I've been systematically developi
 
 Throughout the course of my career, I've perfected my soft skills, such as excellent communication and collaboration, building and maintaining positive relationships, effective team management, and performing well in high-pressure situations. As a consistent problem-solver with analytical and critical thinking abilities, I can prioritize and manage projects with proficiency. My creativity, optimism, openness, strong organizational skills, and self-discipline in achieving goals make me a valuable asset as an employee and co-worker.
 
-❔ Why software testing? 
-
 ## <a name="skills">🔹Skills🔹</a>
 ### Tech skills
 
@@ -113,9 +111,6 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 #### SQL
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
-
-
-## <a name="projects">🔹Projects🔹</a>
 
 #### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
 (15.11.2023-15.12.2023)
