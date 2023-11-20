@@ -1,5 +1,5 @@
 # Portfolio
-## Software tester's portfolio - Liliana Pilarska (draft)
+## Software tester's portfolio - Liliana Pilarska 
 
 #### TABLE OF CONTENT
 -----
