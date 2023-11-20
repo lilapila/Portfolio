@@ -112,7 +112,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
-## Projects
+## <a name="projects">🔹Projects🔹</a>
 
 #### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
 (15.11.2023-15.12.2023)
