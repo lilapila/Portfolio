@@ -70,7 +70,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **PicPick** - a screen capture and recording tool
 * **BrowserStack** - a testing platform for testing web and mobile applications on various browsers or mobile devices
 * **Microsoft 365** (Teams, Access, Excel, Forms, Power Point, OneNote, Word)
-* **chat GPT**
+* **chat GPT** - a chatbot developed by OpenAI, using the GPT model to generate responses to the user input
   
 ## <a name="courses">🔹Courses and certs🔹</a>
 
