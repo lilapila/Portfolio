@@ -59,7 +59,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * **Jira** - an agile project management platform that enables teams to plan, track and manage their workflows and projects
 * **Trello** - a visual project management tool that helps individuals and teams to organize and prioritize their work
 * **Confluence** - a team workspace where knowledge and collaboration meet
-* **TestLink** - a web-based test management system that facilitates software quality assurance
+* **TestLink**, **TestRail**- a web-based test management system that facilitates software quality assurance
 * **GitHub** -  a platform and cloud-based service for software development and version control using Git 
 * **GIT** - an open-source distributed version control system that tracks changes in any set of computer files
 * **Postman** - an API platform for building and using APIs
