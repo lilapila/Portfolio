@@ -74,6 +74,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="courses">🔹Courses and certs🔹</a>
 
+* [Software testing workshops](https://verified.sertifier.com/en/verify/18283861741117/), Quality Island, 11.2023
 * [Confluence Fundamentals](https://university.atlassian.com/student/award/KqsGK4yoXVzAqZ7sCcMBnSQG), Atlassian University, 11.2023
 * [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
 * [Testing bootcamp- software testing](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5cf73caf-2b43-4ea9-8653-d2c2292e19a7.pdf), Udemy, 10.2023 
