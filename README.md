@@ -97,6 +97,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 #### ➡️ [My project repository](https://github.com/lilapila/GoIT)
 > [Test Cases](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%201.md)
+
 > [Bug Reports](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%202.md)
 
 ### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
