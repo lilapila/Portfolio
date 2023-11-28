@@ -4,7 +4,7 @@
 #### TABLE OF CONTENT
 -----
 
-[ABOUT ME](#aboutme) :small_blue_diamond:  [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [TESTING DOCUMENTATION](#testcases) 🔹[PROJECTS](#projects) 🔹 [EVENTS](events) 🔹 [RECOMMENDED SOURCES OF KNOWLEDGE AND PRACTICE](#sources) 
+[ABOUT ME](#aboutme) :small_blue_diamond:  [SKILLS](#skills)  🔹 [TOOLS](#tools)  🔹 [COURSES AND CERTS](#courses) 🔹 [PROJECTS](#projects) 🔹[TESTING DOCUMENTATION](#testcases) 🔹 [EVENTS](events) 🔹 [RECOMMENDED SOURCES OF KNOWLEDGE AND PRACTICE](#sources) 
 
 -----
 ## <a name="aboutme">🔹About me🔹</a>
@@ -88,6 +88,17 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 * [Introduction to Office 365 and Windows 10 for education](https://docs.google.com/document/d/1gfLoixn_MkEFmGRSiSOitDFnh1Q6_krtWf0oCQWEjPg/edit?usp=sharing), Microsoft, 02.2021
 * [Certified Microsoft Innovative Educator](https://docs.google.com/document/d/1HSuWHEJZHCdsbVIvknFwKlYy35RutnMllmLtMbyAOew/edit?usp=sharing), Microsoft, 01.2021
   
+## <a name="projects">🔹Projects🔹</a>
+
+### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
+(15.11.2023-15.12.2023)
+
+### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
+➡️[My project repository](https://github.com/lilapila/GoIT)
+
+### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
+
+
 ## <a name="testcases">🔹Testing Documentation🔹</a>
 
 #### Test plan example
@@ -113,17 +124,6 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 #### SQL
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
-
-## <a name="projects">🔹Projects🔹</a>
-
-#### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
-(15.11.2023-15.12.2023)
-
-#### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
-➡️[My project repository](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/README.md)
-
-#### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
-
 
 ## <a name="events">🔹Events🔹</a>
 
