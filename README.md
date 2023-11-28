@@ -95,7 +95,9 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
 ➡️[My project repository](https://github.com/lilapila/GoIT)
+
 > [Test Cases](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%201.md)
+
 > [Bug Reports](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%202.md)
 
 ### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
@@ -115,13 +117,15 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
    
 #### Bug reporting example
 
-➡️ [Jira bug reporting](https://github.com/lilapila/lilapila/blob/0b1cb9dfcbb2222f8fb2801bcd0d818c8ab3f2d0/jira%20bug1.jpg) 
+➡️ [Jira bug reporting](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%203.md) 
 
 #### Test report
 
 ➡️ [TestLink report - allegro](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/TestLink%201.9.20%20%5BDEV%5D.pdf)
 
 ➡️ [TestLink metrics - allegro](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/TestLink%201.9.20%20%5BDEV%5D%20metrics.pdf)
+
+➡️ [TestRail report](https://github.com/lilapila/lilapila/blob/a3e8730eba2610de524e30fde772ee5b34ab52c7/Test%20Run%20Report.png)
 
 #### SQL
 
