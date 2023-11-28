@@ -101,7 +101,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 > [Bug Reports](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%202.md)
 
 ### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
-➡️[Test Cases](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
+➡️ [Test scenario- registration](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
+➡️ [Bugs sample - Jira board](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/jira%20Mr%20Buggy7.jpg)
 
 ## <a name="testcases">🔹Testing Documentation🔹</a>
 
@@ -111,7 +112,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 #### Test case example
 
-➡️ MrBuggy [registration form TC](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
+➡️ MrBuggy [registration test scenario](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 
 ➡️ allegro [TC3](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/testlink%20allegro%20TC.png) [TC5](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/testlink%20allegro%20TC%205.png) [TC10](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/testlink%20allegro%20TC%2010.png)
    
