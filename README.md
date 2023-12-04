@@ -74,6 +74,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="courses">🔹Courses and certs🔹</a>
 
+* [Xray Essentials for Cloud, Implementing Xray, Parameterized Tests (DDT), Document Generator for Xray Cloud](https://docs.google.com/document/d/1YAxxpDvtvjmUL_vkAmclWtrKNsNB3gr4S4bn4HCnR_E/edit?usp=sharing), Xray Academy, 12.2023
 * [Software testing workshops](https://verified.sertifier.com/en/verify/18283861741117/), Quality Island, 11.2023
 * [Confluence Fundamentals](https://university.atlassian.com/student/award/KqsGK4yoXVzAqZ7sCcMBnSQG), Atlassian University, 11.2023
 * [Jira Software Fundamentals](https://university.atlassian.com/student/award/pQSuKn7Sd6dBAp2Y9hpzCRjc), Atlassian University, 11.2023
