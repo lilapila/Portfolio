@@ -92,19 +92,19 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="projects">🔹Projects🔹</a>
 
-### [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
+### 1. [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
 (15.11.2023-15.12.2023)
 
-### [My CV website - GoIT HTML/CSS marathon](https://656f7d6788833d2cac085b16--whimsical-malabi-c5ce77.netlify.app/) - 12.2023
+### 2. [My CV website - GoIT HTML/CSS marathon](https://656f7d6788833d2cac085b16--whimsical-malabi-c5ce77.netlify.app/) - 12.2023
 
-### [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
+### 3. [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
 > #### ➡️ [My project repository](https://github.com/lilapila/GoIT) ⬅️
 > 
 > [Test Cases](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%201.md)
 > 
 > [Bug Reports](https://github.com/lilapila/GoIT/blob/d82d0987ea29b1e2b17632fd445fa09375e36a8c/Day%202.md)
 
-### [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
+### 4. [Mr Buggy 7](http://mrbuggy.pl/mrbuggy7/)
 > [Test scenario- registration](https://docs.google.com/spreadsheets/d/173qW1iDUq6ZiSavthpxNHr0TS6b_A1SqXfAvmqqtSPc/edit?usp=sharing)
 > 
 > [Bugs sample - Jira board](https://github.com/lilapila/lilapila/blob/b8f4f4e19007ebe6ac26c857d8b89aaa47a47ac1/jira%20Mr%20Buggy7.jpg)
