@@ -93,7 +93,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 ## <a name="projects">🔹Projects🔹</a>
 
 ### 1. [COLT 3/2023 - Testing tasks associated with DevTool](http://cherry-it.pl/colt-3-2023/) 🕝in progress
-(15.11.2023-15.12.2023)
+(15.11.2023-15.01.2024)
+#### ➡️ [Trello project board](https://docs.google.com/document/d/1qTVE-3Fa8MpUYqVRS6zzGx8KtQflzz0vT0o7iyZ5d7g/edit?usp=sharing) ⬅️
 
 ### 2. [My CV website - GoIT HTML/CSS marathon](https://656f7d6788833d2cac085b16--whimsical-malabi-c5ce77.netlify.app/) - 12.2023
 
