@@ -96,7 +96,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 (15.11.2023-15.01.2024)
 #### ➡️ [Trello project board](https://docs.google.com/document/d/1qTVE-3Fa8MpUYqVRS6zzGx8KtQflzz0vT0o7iyZ5d7g/edit?usp=sharing) ⬅️
 
-### 2. [My CV website - GoIT HTML/CSS marathon](https://656f7d6788833d2cac085b16--whimsical-malabi-c5ce77.netlify.app/) - 12.2023
+### 2. [My CV website - GoIT HTML/CSS marathon](https://whimsical-malabi-c5ce77.netlify.app/)- 12.2023
 
 ### 3. [GoIT QA marathon](https://qa.m.goit.global/pl/?utm_source=google&utm_medium=OR_PL&campaignid=19844256192&utm_content=&utm_term=&keyword=&placement=&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Lm781T0BdJ3rERT5Um3r78HPF2MRo176LModa_Xx-uzK7RFfT2vPBoCM-gQAvD_BwE) - 11.2023
 > #### ➡️ [My project repository](https://github.com/lilapila/GoIT) ⬅️
