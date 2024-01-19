@@ -139,6 +139,12 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
 
+#### API testing- Postman
+
+➡️ [API Grocery Store](https://documenter.getpostman.com/view/29094749/2s9YsT68NG)
+
+
+
 ## <a name="events">🔹Events🔹</a>
 
 [WOMEN IN IT DAY](https://hopin.com/events/women-in-it-day-2023?smclient=5bdf6a61-7d89-48c3-b7cf-b4820e1e3303&utm_source=salesmanago&utm_medium=email&utm_campaign=default#schedule) Hosted by Future Collars, 15 November 2023
