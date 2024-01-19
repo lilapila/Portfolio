@@ -141,7 +141,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 #### API testing- Postman
 
-➡️ [API Grocery Store](https://documenter.getpostman.com/view/29094749/2s9YsT68NG) based on [Postman-Complete-Guide-API-Testing]([simple-grocery-store-api.md](https://github.com/vdespa/Postman-Complete-Guide-API-Testing/blob/main/simple-grocery-store-api.md))
+➡️ [API Grocery Store](https://documenter.getpostman.com/view/29094749/2s9YsT68NG) based on [source](https://github.com/vdespa/Postman-Complete-Guide-API-Testing/blob/main/simple-grocery-store-api.md)
 
 
 
