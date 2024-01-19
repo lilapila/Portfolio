@@ -113,6 +113,10 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 ## <a name="testcases">🔹Testing Documentation🔹</a>
 
+#### API testing- Postman
+
+➡️ [API Grocery Store](https://documenter.getpostman.com/view/29094749/2s9YsT68NG) based on [source](https://github.com/vdespa/Postman-Complete-Guide-API-Testing/blob/main/simple-grocery-store-api.md)
+
 #### Test plan example
 
 ➡️ [testplan- allegro](https://github.com/lilapila/lilapila/blob/058d51b3bbae8c5a182b84f717ed3201b7e1d52a/testlink%20plan%20test%C3%B3w%20allegro.png)
@@ -138,11 +142,6 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 #### SQL
 
 ➡️ [SQL example](https://docs.google.com/document/d/1cze-GCY99FtVMoEOmiQ7HBUCwbTKcssNgPuXfwkr1io/edit?usp=sharing)
-
-#### API testing- Postman
-
-➡️ [API Grocery Store](https://documenter.getpostman.com/view/29094749/2s9YsT68NG) based on [source](https://github.com/vdespa/Postman-Complete-Guide-API-Testing/blob/main/simple-grocery-store-api.md)
-
 
 
 ## <a name="events">🔹Events🔹</a>
