@@ -191,7 +191,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [Sololearn](https://www.sololearn.com/learn/courses/sql-intermediate)
 
-💡 []()
+💡 [Vdespa Postman course](https://github.com/vdespa/introduction-to-postman-course/blob/main/course-notes.md)
 
 
 
