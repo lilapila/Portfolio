@@ -191,6 +191,8 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
 
 💡 [Sololearn](https://www.sololearn.com/learn/courses/sql-intermediate)
 
+💡 [SQL Sandbox](https://testing-platform.czyitjestdlamnie.pl/sql-sandbox/exercises/sql-joins-discover-corporation-secrets)
+
 💡 [Vdespa Postman course](https://github.com/vdespa/introduction-to-postman-course/blob/main/course-notes.md)
 
 
