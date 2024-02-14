@@ -75,6 +75,7 @@ Throughout the course of my career, I've perfected my soft skills, such as excel
   
 ## <a name="courses">🔹Courses and certs🔹</a>
 
+* [Introduction to Java](https://www.sololearn.com/certificates/CC-TVZS7EWX), Sololearn, 02.2024
 * [SQL Intermediate](https://www.sololearn.com/certificates/CC-0FQILG60), Sololearn, 02.2024
 * [Basics of REST API testing - Postman](https://d1ll4kxfi4ofbm.cloudfront.net/file/event/325279/logo/logo3_325279_20240110074011.png), Eduamp, 01.2024
 * [Xray Essentials for Cloud, Implementing Xray, Parameterized Tests (DDT), Document Generator for Xray Cloud](https://docs.google.com/document/d/1YAxxpDvtvjmUL_vkAmclWtrKNsNB3gr4S4bn4HCnR_E/edit?usp=sharing), Xray Academy, 12.2023
